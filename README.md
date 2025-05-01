@@ -4,6 +4,16 @@
 ## Also if you have itemId of other items, that are not included in here, please do provide it to me, Discord username- ```faiz212```
 
 <details>
+
+<summary>Data Drives {common = Tier 1, Uncommon = Tier 2, Rare = Tier 3, Epic = Tier 4, Legendary = Tier 5}</summary>
+
+```json
+{"itemId":"8f3a0f5e-c946-41e6-9794-a443ede3bea0","baseItemId":"HardDrive_common","primaryVanityId":0,"secondaryVanityId":0,"amount":1,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}},{"itemId":"0c692c14-dc2e-4d7d-b05c-ed4b60a72c8d","baseItemId":"HardDrive_uncommon","primaryVanityId":0,"secondaryVanityId":0,"amount":1,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}},{"itemId":"64fd8699-2666-4632-832f-80d62c8b69db","baseItemId":"HardDrive_rare","primaryVanityId":0,"secondaryVanityId":0,"amount":1,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}},{"itemId":"fc98ab44-ea8f-4efd-9d9e-a5ee2f96ac0d","baseItemId":"HardDrive_epic","primaryVanityId":0,"secondaryVanityId":0,"amount":1,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}},{"itemId":"71a2bbfa-2677-40fd-9086-d5633aeae25b","baseItemId":"HardDrive_legendary","primaryVanityId":0,"secondaryVanityId":0,"amount":1,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}},
+```
+</details>
+
+<details>
+
 <summary>Bag_Altered_03</summary>
 
 ```json
