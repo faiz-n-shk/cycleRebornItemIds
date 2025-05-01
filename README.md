@@ -279,7 +279,7 @@
 <summary>KorolevScrip</summary>
 
 ```json
-{"itemId":"30a68bc5-82c0-4b75-bb44-a09e39c86788","baseItemId":"KorolevScrip","primaryVanityId":0,"secondaryVanityId":0,"amount":1000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"4BEA22D4219F4FD5","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"30a68bc5-82c0-4b75-bb44-a09e39c86788","baseItemId":"KorolevScrip","primaryVanityId":0,"secondaryVanityId":0,"amount":1,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"4BEA22D4219F4FD5","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -287,7 +287,7 @@
 <summary>ICAScrip</summary>
 
 ```json
-{"itemId":"b3d1259f-6fb0-4946-8cb8-7e08aef60fb0","baseItemId":"ICAScrip","primaryVanityId":0,"secondaryVanityId":0,"amount":1000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"4BEA22D4219F4FD5","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"b3d1259f-6fb0-4946-8cb8-7e08aef60fb0","baseItemId":"ICAScrip","primaryVanityId":0,"secondaryVanityId":0,"amount":1,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"4BEA22D4219F4FD5","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -975,7 +975,7 @@
 <summary>CommonVeltecite</summary>
 
 ```json
-{"itemId":"B120cf50-f817-487d-9813-143eac56c884","baseItemId":"CommonVeltecite","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"B120cf50-f817-487d-9813-143eac56c884","baseItemId":"CommonVeltecite","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -983,7 +983,7 @@
 <summary>UncommonVelticite</summary>
 
 ```json
-{"itemId":"Cbe4ec32-9507-4a24-b2cd-c0f47b13f99f","baseItemId":"UncommonVelticite","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"Cbe4ec32-9507-4a24-b2cd-c0f47b13f99f","baseItemId":"UncommonVelticite","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -991,7 +991,7 @@
 <summary>RareVeltecite</summary>
 
 ```json
-{"itemId":"7130c91c-30d2-47c1-a3b9-ed8d80f4df95","baseItemId":"RareVeltecite","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"7130c91c-30d2-47c1-a3b9-ed8d80f4df95","baseItemId":"RareVeltecite","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -999,7 +999,7 @@
 <summary>EpicVeltecite</summary>
 
 ```json
-{"itemId":"8efb4ca9-c4d1-44b4-aa7e-c0568c20cd4b","baseItemId":"EpicVeltecite","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"8efb4ca9-c4d1-44b4-aa7e-c0568c20cd4b","baseItemId":"EpicVeltecite","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1007,7 +1007,7 @@
 <summary>VelteciteHeart</summary>
 
 ```json
-{"itemId":"xe307852-adfb-408b-a740-b98c9b7c77a8","baseItemId":"VelteciteHeart","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"xe307852-adfb-408b-a740-b98c9b7c77a8","baseItemId":"VelteciteHeart","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1015,7 +1015,7 @@
 <summary>FocusCrystal</summary>
 
 ```json
-{"itemId":"g645120e-debb-4d08-8bd1-cccfd836d04a","baseItemId":"FocusCrystal","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"g645120e-debb-4d08-8bd1-cccfd836d04a","baseItemId":"FocusCrystal","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1023,7 +1023,7 @@
 <summary>PureFocusCrystal</summary>
 
 ```json
-{"itemId":"fa1701d0-26d7-41b0-a122-1ee9ee235c3b","baseItemId":"PureFocusCrystal","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"fa1701d0-26d7-41b0-a122-1ee9ee235c3b","baseItemId":"PureFocusCrystal","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1031,7 +1031,7 @@
 <summary>Nickel</summary>
 
 ```json
-{"itemId":"84dd69d3-9733-482d-9fec-1da74e717cf9","baseItemId":"Nickel","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"84dd69d3-9733-482d-9fec-1da74e717cf9","baseItemId":"Nickel","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1039,7 +1039,7 @@
 <summary>PureNickel</summary>
 
 ```json
-{"itemId":"50c95cbb-a1a0-4802-818a-b1d3783aa294","baseItemId":"PureNickel","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"50c95cbb-a1a0-4802-818a-b1d3783aa294","baseItemId":"PureNickel","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1047,7 +1047,7 @@
 <summary>PolariumCrystal</summary>
 
 ```json
-{"itemId":"a1de27f1-7395-459b-b27c-7a07130d21aa","baseItemId":"PolariumCrystal","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"a1de27f1-7395-459b-b27c-7a07130d21aa","baseItemId":"PolariumCrystal","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1055,7 +1055,7 @@
 <summary>Polonium</summary>
 
 ```json
-{"itemId":"d27af73a-cdfc-48a1-9087-2eaa0e69791d","baseItemId":"Polonium","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"d27af73a-cdfc-48a1-9087-2eaa0e69791d","baseItemId":"Polonium","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1063,7 +1063,7 @@
 <summary>BrittleTitanOre</summary>
 
 ```json
-{"itemId":"deed1097-fbb8-4441-a894-7592456802cb","baseItemId":"BrittleTitanOre","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"deed1097-fbb8-4441-a894-7592456802cb","baseItemId":"BrittleTitanOre","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1071,7 +1071,7 @@
 <summary>TitanOre</summary>
 
 ```json
-{"itemId":"c40aec6b-6caf-4e76-a226-a92775fecc6a","baseItemId":"TitanOre","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"c40aec6b-6caf-4e76-a226-a92775fecc6a","baseItemId":"TitanOre","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1079,7 +1079,7 @@
 <summary>StormSurgeCrystal</summary>
 
 ```json
-{"itemId":"af0893b0-9c72-4bcc-a076-0fa48a6ca8be","baseItemId":"StormSurgeCrystal","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"af0893b0-9c72-4bcc-a076-0fa48a6ca8be","baseItemId":"StormSurgeCrystal","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1087,7 +1087,7 @@
 <summary>BrightcapMushroom</summary>
 
 ```json
-{"itemId":"e443f203-4972-494c-a978-c6df048e9984","baseItemId":"BrightcapMushroom","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"e443f203-4972-494c-a978-c6df048e9984","baseItemId":"BrightcapMushroom","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1095,7 +1095,7 @@
 <summary>MeteorCore</summary>
 
 ```json
-{"itemId":"ca05605c-1bdf-4661-98e6-d82d438b325d","baseItemId":"MeteorCore","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"ca05605c-1bdf-4661-98e6-d82d438b325d","baseItemId":"MeteorCore","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1103,7 +1103,7 @@
 <summary>MeteorFragment</summary>
 
 ```json
-{"itemId":"769c84c7-ffc9-4d00-a4f8-e0b470d120a0","baseItemId":"MeteorFragment","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"769c84c7-ffc9-4d00-a4f8-e0b470d120a0","baseItemId":"MeteorFragment","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1111,7 +1111,7 @@
 <summary>BlueRunnerEgg</summary>
 
 ```json
-{"itemId":"ea62fb61-7c6b-4e9a-a047-4906f1a6c656","baseItemId":"BlueRunnerEgg","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"ea62fb61-7c6b-4e9a-a047-4906f1a6c656","baseItemId":"BlueRunnerEgg","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1119,7 +1119,7 @@
 <summary>Alloys</summary>
 
 ```json
-{"itemId":"369b22cd-b572-4e3f-a1c8-21b77e36a8b6","baseItemId":"Alloys","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"369b22cd-b572-4e3f-a1c8-21b77e36a8b6","baseItemId":"Alloys","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1127,7 +1127,7 @@
 <summary>SpareCasing</summary>
 
 ```json
-{"itemId":"808aeafd-941b-48d6-ade2-e6e5bb6c4662","baseItemId":"SpareCasing","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"808aeafd-941b-48d6-ade2-e6e5bb6c4662","baseItemId":"SpareCasing","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1135,7 +1135,7 @@
 <summary>OpticGlass</summary>
 
 ```json
-{"itemId":"dc6869db-a0c9-43e7-b01b-b9de8159b8ae","baseItemId":"OpticGlass","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"dc6869db-a0c9-43e7-b01b-b9de8159b8ae","baseItemId":"OpticGlass","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1143,7 +1143,7 @@
 <summary>DerelictExplosives</summary>
 
 ```json
-{"itemId":"9b4ebf4e-e613-4834-ad7f-6c0a6a087577","baseItemId":"DerelictExplosives","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"9b4ebf4e-e613-4834-ad7f-6c0a6a087577","baseItemId":"DerelictExplosives","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1151,7 +1151,7 @@
 <summary>PolymetallicPrefabricate</summary>
 
 ```json
-{"itemId":"757ddb44-ab30-4c5f-a015-f0c833741c05","baseItemId":"PolymetallicPrefabricate","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"757ddb44-ab30-4c5f-a015-f0c833741c05","baseItemId":"PolymetallicPrefabricate","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1159,7 +1159,7 @@
 <summary>CompoundSheets</summary>
 
 ```json
-{"itemId":"65ddabda-5120-45ba-9012-8c0f2b487faa","baseItemId":"CompoundSheets","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"65ddabda-5120-45ba-9012-8c0f2b487faa","baseItemId":"CompoundSheets","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1167,7 +1167,7 @@
 <summary>HydraulicPiston</summary>
 
 ```json
-{"itemId":"f97afd35-62f3-41a7-ab7f-cf427b8699ce","baseItemId":"HydraulicPiston","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"f97afd35-62f3-41a7-ab7f-cf427b8699ce","baseItemId":"HydraulicPiston","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1175,7 +1175,7 @@
 <summary>Gyroscope</summary>
 
 ```json
-{"itemId":"e072e764-19c9-4b3a-a17c-90a3d809f1be","baseItemId":"Gyroscope","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"e072e764-19c9-4b3a-a17c-90a3d809f1be","baseItemId":"Gyroscope","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1183,7 +1183,7 @@
 <summary>BallBearings</summary>
 
 ```json
-{"itemId":"496b498c-f063-4857-af89-fc133346479c","baseItemId":"BallBearings","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"496b498c-f063-4857-af89-fc133346479c","baseItemId":"BallBearings","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1191,7 +1191,7 @@
 <summary>PrintResin</summary>
 
 ```json
-{"itemId":"2e6d5c49-01bc-4f8e-a348-1a474a6453ac","baseItemId":"PrintResin","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"2e6d5c49-01bc-4f8e-a348-1a474a6453ac","baseItemId":"PrintResin","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1199,7 +1199,7 @@
 <summary>MultiTool</summary>
 
 ```json
-{"itemId":"62b1c271-7362-47b4-8b96-d745e993dc44","baseItemId":"MultiTool","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"62b1c271-7362-47b4-8b96-d745e993dc44","baseItemId":"MultiTool","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1207,7 +1207,7 @@
 <summary>ShardSlicer</summary>
 
 ```json
-{"itemId":"9f29ce3f-f2fa-4929-a18e-a8a347a276e5","baseItemId":"ShardSlicer","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"9f29ce3f-f2fa-4929-a18e-a8a347a276e5","baseItemId":"ShardSlicer","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1215,7 +1215,7 @@
 <summary>CombatCPU_Blue</summary>
 
 ```json
-{"itemId":"8e6a7c2d-18cc-4f9e-a430-f2c7caa0e9ef","baseItemId":"CombatCPU_Blue","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"8e6a7c2d-18cc-4f9e-a430-f2c7caa0e9ef","baseItemId":"CombatCPU_Blue","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1223,7 +1223,7 @@
 <summary>CombatCPU_red</summary>
 
 ```json
-{"itemId":"2ee73c3b-d64b-4e05-a26e-c0a5fbf68127","baseItemId":"CombatCPU_red","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"2ee73c3b-d64b-4e05-a26e-c0a5fbf68127","baseItemId":"CombatCPU_red","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1231,7 +1231,7 @@
 <summary>MiniatureReactor</summary>
 
 ```json
-{"itemId":"3ec77566-ca27-497c-bdab-b05297860050","baseItemId":"MiniatureReactor","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"3ec77566-ca27-497c-bdab-b05297860050","baseItemId":"MiniatureReactor","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1239,7 +1239,7 @@
 <summary>ShockAbsorber</summary>
 
 ```json
-{"itemId":"6c2ad573-0baf-4c75-b63a-46630f5219e1","baseItemId":"ShockAbsorber","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"6c2ad573-0baf-4c75-b63a-46630f5219e1","baseItemId":"ShockAbsorber","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1247,7 +1247,7 @@
 <summary>AutoLoader</summary>
 
 ```json
-{"itemId":"118a1e46-b495-4274-bd59-a9ed18e9264f","baseItemId":"AutoLoader","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"118a1e46-b495-4274-bd59-a9ed18e9264f","baseItemId":"AutoLoader","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1255,7 +1255,7 @@
 <summary>MagneticFieldStabilizer</summary>
 
 ```json
-{"itemId":"0d11098e-d80f-42ba-9de6-34ad29e49dc2","baseItemId":"MagneticFieldStabilizer","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"0d11098e-d80f-42ba-9de6-34ad29e49dc2","baseItemId":"MagneticFieldStabilizer","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1263,7 +1263,7 @@
 <summary>Datapad</summary>
 
 ```json
-{"itemId":"65a17c58-595e-495f-b6f1-26f10e916c55","baseItemId":"Datapad","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"65a17c58-595e-495f-b6f1-26f10e916c55","baseItemId":"Datapad","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1271,7 +1271,7 @@
 <summary>OldCurrency</summary>
 
 ```json
-{"itemId":"a544d28a-92e8-4e35-97fc-7d1becb91b21","baseItemId":"OldCurrency","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"a544d28a-92e8-4e35-97fc-7d1becb91b21","baseItemId":"OldCurrency","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1279,7 +1279,7 @@
 <summary>RadioactiveBrightcapMushroom</summary>
 
 ```json
-{"itemId":"180a768c-205f-4de8-b543-5a349a15815d","baseItemId":"RadioactiveBrightcapMushroom","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"180a768c-205f-4de8-b543-5a349a15815d","baseItemId":"RadioactiveBrightcapMushroom","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1287,7 +1287,7 @@
 <summary>BlueWood</summary>
 
 ```json
-{"itemId":"a3b8e8e1-c7bb-4d99-bad2-2f8ab43e1cce","baseItemId":"BlueWood","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"a3b8e8e1-c7bb-4d99-bad2-2f8ab43e1cce","baseItemId":"BlueWood","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1295,7 +1295,7 @@
 <summary>WaterPlant</summary>
 
 ```json
-{"itemId":"46752ea0-ff0e-4a8c-bf19-8678d09c90f8","baseItemId":"WaterPlant","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"46752ea0-ff0e-4a8c-bf19-8678d09c90f8","baseItemId":"WaterPlant","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1303,7 +1303,7 @@
 <summary>DesertPlant</summary>
 
 ```json
-{"itemId":"91c830c5-484c-49b7-bd23-2f2cd215412a","baseItemId":"DesertPlant","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"91c830c5-484c-49b7-bd23-2f2cd215412a","baseItemId":"DesertPlant","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1311,7 +1311,7 @@
 <summary>IvyPlant</summary>
 
 ```json
-{"itemId":"0db53ad4-b860-47b0-b733-aa2e78f2a708","baseItemId":"IvyPlant","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"0db53ad4-b860-47b0-b733-aa2e78f2a708","baseItemId":"IvyPlant","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1319,7 +1319,7 @@
 <summary>AlienFruit</summary>
 
 ```json
-{"itemId":"786e8ef2-57c8-43ae-afda-5bd1b96fd066","baseItemId":"AlienFruit","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"786e8ef2-57c8-43ae-afda-5bd1b96fd066","baseItemId":"AlienFruit","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1327,7 +1327,7 @@
 <summary>Fabrics</summary>
 
 ```json
-{"itemId":"e7128aaf-175a-42d5-91b3-7cc6025b4c82","baseItemId":"Fabrics","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"e7128aaf-175a-42d5-91b3-7cc6025b4c82","baseItemId":"Fabrics","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1335,7 +1335,7 @@
 <summary>Cables</summary>
 
 ```json
-{"itemId":"63bc1f96-5ee4-405c-a49f-cd1086720ce7","baseItemId":"Cables","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"63bc1f96-5ee4-405c-a49f-cd1086720ce7","baseItemId":"Cables","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1343,7 +1343,7 @@
 <summary>Insulation</summary>
 
 ```json
-{"itemId":"d4d85e99-9ccc-406c-b44a-72bb89adc652","baseItemId":"Insulation","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"d4d85e99-9ccc-406c-b44a-72bb89adc652","baseItemId":"Insulation","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1351,7 +1351,7 @@
 <summary>CopperWire</summary>
 
 ```json
-{"itemId":"cddf8f31-444c-4c0a-90cf-21460d879774","baseItemId":"CopperWire","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"cddf8f31-444c-4c0a-90cf-21460d879774","baseItemId":"CopperWire","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1359,7 +1359,7 @@
 <summary>SmartMesh</summary>
 
 ```json
-{"itemId":"1d753d9c-9b24-4ceb-80c2-9e9e0257ec0f","baseItemId":"SmartMesh","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"1d753d9c-9b24-4ceb-80c2-9e9e0257ec0f","baseItemId":"SmartMesh","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1367,7 +1367,7 @@
 <summary>CircuitBoard</summary>
 
 ```json
-{"itemId":"b19c2c73-0b4a-47a2-ad59-44f250c976cb","baseItemId":"CircuitBoard","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"b19c2c73-0b4a-47a2-ad59-44f250c976cb","baseItemId":"CircuitBoard","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1375,7 +1375,7 @@
 <summary>RadioSpareParts</summary>
 
 ```json
-{"itemId":"6c871d54-ea48-4648-9e3e-702ad52037b5","baseItemId":"RadioSpareParts","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"6c871d54-ea48-4648-9e3e-702ad52037b5","baseItemId":"RadioSpareParts","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1383,7 +1383,7 @@
 <summary>Antibiotics</summary>
 
 ```json
-{"itemId":"751c355a-15c2-41bc-b72a-a38519030ecc","baseItemId":"Antibiotics","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"751c355a-15c2-41bc-b72a-a38519030ecc","baseItemId":"Antibiotics","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1391,7 +1391,7 @@
 <summary>PortableLabEquipmentBox</summary>
 
 ```json
-{"itemId":"bc7360f3-d99a-436c-bec5-dd31fc6fbd30","baseItemId":"PortableLabEquipmentBox","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"bc7360f3-d99a-436c-bec5-dd31fc6fbd30","baseItemId":"PortableLabEquipmentBox","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1399,7 +1399,7 @@
 <summary>Battery</summary>
 
 ```json
-{"itemId":"df5265fa-d202-422f-86fe-5d182688aa04","baseItemId":"Battery","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"df5265fa-d202-422f-86fe-5d182688aa04","baseItemId":"Battery","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1407,7 +1407,7 @@
 <summary>LiquidFertilizer</summary>
 
 ```json
-{"itemId":"dcc2d277-8d57-4578-85af-a5f7c491bc43","baseItemId":"LiquidFertilizer","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"dcc2d277-8d57-4578-85af-a5f7c491bc43","baseItemId":"LiquidFertilizer","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1415,7 +1415,7 @@
 <summary>SamplingDevice</summary>
 
 ```json
-{"itemId":"b8e36256-8716-4bf8-aa55-cb9ab34f23f2","baseItemId":"SamplingDevice","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"b8e36256-8716-4bf8-aa55-cb9ab34f23f2","baseItemId":"SamplingDevice","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1423,7 +1423,7 @@
 <summary>AnaestheticsContainers</summary>
 
 ```json
-{"itemId":"ed986cff-c1b0-45ce-90d7-f2d9b734ba26","baseItemId":"AnaestheticsContainers","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"ed986cff-c1b0-45ce-90d7-f2d9b734ba26","baseItemId":"AnaestheticsContainers","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1431,7 +1431,7 @@
 <summary>ProteinBar</summary>
 
 ```json
-{"itemId":"55f0da3a-925b-4354-a9b8-8b95a7c5fc57","baseItemId":"ProteinBar","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"55f0da3a-925b-4354-a9b8-8b95a7c5fc57","baseItemId":"ProteinBar","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1439,7 +1439,7 @@
 <summary>Jewellery</summary>
 
 ```json
-{"itemId":"c0f83195-b614-4dd1-a4c5-446731a1391b","baseItemId":"Jewellery","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"c0f83195-b614-4dd1-a4c5-446731a1391b","baseItemId":"Jewellery","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1447,7 +1447,7 @@
 <summary>SampleContainer</summary>
 
 ```json
-{"itemId":"98461964-5e84-44ef-848f-269f53cb16d4","baseItemId":"SampleContainer","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"98461964-5e84-44ef-848f-269f53cb16d4","baseItemId":"SampleContainer","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1455,7 +1455,7 @@
 <summary>AluminumParts</summary>
 
 ```json
-{"itemId":"b5c46dae-2fc8-437f-be9c-e0c65cfe015a","baseItemId":"AluminumParts","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"b5c46dae-2fc8-437f-be9c-e0c65cfe015a","baseItemId":"AluminumParts","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1463,7 +1463,7 @@
 <summary>GenericCreatureDrop</summary>
 
 ```json
-{"itemId":"245fc945-a699-4c51-9c66-1f27d76348f6","baseItemId":"GenericCreatureDrop","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"245fc945-a699-4c51-9c66-1f27d76348f6","baseItemId":"GenericCreatureDrop","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1471,7 +1471,7 @@
 <summary>StormyCreatureDrop</summary>
 
 ```json
-{"itemId":"4414ae59-6180-4359-b87a-fe2185c41729","baseItemId":"StormyCreatureDrop","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"4414ae59-6180-4359-b87a-fe2185c41729","baseItemId":"StormyCreatureDrop","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1479,7 +1479,7 @@
 <summary>NeuroToxicGlands</summary>
 
 ```json
-{"itemId":"a6a912aa-b6b6-4d2c-8808-6782ca0ecca8","baseItemId":"NeuroToxicGlands","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"a6a912aa-b6b6-4d2c-8808-6782ca0ecca8","baseItemId":"NeuroToxicGlands","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1487,7 +1487,7 @@
 <summary>AI_StriderHead</summary>
 
 ```json
-{"itemId":"287aecdd-59ee-4613-88bf-e012d94e012e","baseItemId":"AI_StriderHead","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"287aecdd-59ee-4613-88bf-e012d94e012e","baseItemId":"AI_StriderHead","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1495,7 +1495,7 @@
 <summary>AI_RattlerHead</summary>
 
 ```json
-{"itemId":"e8d677d5-f66f-4f6a-97cf-e51497148f6f","baseItemId":"AI_RattlerHead","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"e8d677d5-f66f-4f6a-97cf-e51497148f6f","baseItemId":"AI_RattlerHead","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1503,7 +1503,7 @@
 <summary>AI_WeremoleHead</summary>
 
 ```json
-{"itemId":"5a59d92c-43ca-4af6-b563-5f1d7e434ff4","baseItemId":"AI_WeremoleHead","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"5a59d92c-43ca-4af6-b563-5f1d7e434ff4","baseItemId":"AI_WeremoleHead","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1511,7 +1511,7 @@
 <summary>AI_CrusherHead</summary>
 
 ```json
-{"itemId":"c2b0b914-1185-4ded-adc0-71e99aed6344","baseItemId":"AI_CrusherHead","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"c2b0b914-1185-4ded-adc0-71e99aed6344","baseItemId":"AI_CrusherHead","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1519,7 +1519,7 @@
 <summary>AlphaCrusherSkull</summary>
 
 ```json
-{"itemId":"5d89ec0f-a0b2-4008-80ef-48606a4f44f3","baseItemId":"AlphaCrusherSkull","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"5d89ec0f-a0b2-4008-80ef-48606a4f44f3","baseItemId":"AlphaCrusherSkull","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1527,7 +1527,7 @@
 <summary>AI_StriderMeat</summary>
 
 ```json
-{"itemId":"eeb64d08-7a7b-4b88-a578-a75220e20a2e","baseItemId":"AI_StriderMeat","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"eeb64d08-7a7b-4b88-a578-a75220e20a2e","baseItemId":"AI_StriderMeat","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1535,7 +1535,7 @@
 <summary>AI_RattlerEyes</summary>
 
 ```json
-{"itemId":"703fd7a0-6849-436f-9a17-0e5880b87df8","baseItemId":"AI_RattlerEyes","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"703fd7a0-6849-436f-9a17-0e5880b87df8","baseItemId":"AI_RattlerEyes","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1543,7 +1543,7 @@
 <summary>AI_WeremoleMeat</summary>
 
 ```json
-{"itemId":"77f05087-f3c2-4114-91c0-27858d5bcb92","baseItemId":"AI_WeremoleMeat","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"77f05087-f3c2-4114-91c0-27858d5bcb92","baseItemId":"AI_WeremoleMeat","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1551,7 +1551,7 @@
 <summary>AI_CrusherMeat</summary>
 
 ```json
-{"itemId":"4cd716e2-c3c3-4148-ab8c-8cfe63f4c44c","baseItemId":"AI_CrusherMeat","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"4cd716e2-c3c3-4148-ab8c-8cfe63f4c44c","baseItemId":"AI_CrusherMeat","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1559,7 +1559,7 @@
 <summary>AI_RattlerSkin</summary>
 
 ```json
-{"itemId":"be14c813-7a49-41d3-aa10-4091761052f2","baseItemId":"AI_RattlerSkin","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"be14c813-7a49-41d3-aa10-4091761052f2","baseItemId":"AI_RattlerSkin","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1567,7 +1567,7 @@
 <summary>HardenedBoneAlloy</summary>
 
 ```json
-{"itemId":"f1b86fed-1481-4211-8d2c-6a117b8f016e","baseItemId":"HardenedBoneAlloy","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"f1b86fed-1481-4211-8d2c-6a117b8f016e","baseItemId":"HardenedBoneAlloy","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1575,7 +1575,7 @@
 <summary>AI_CrusherSkin</summary>
 
 ```json
-{"itemId":"d989e693-0308-4221-9832-1074d4536d6e","baseItemId":"AI_CrusherSkin","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"d989e693-0308-4221-9832-1074d4536d6e","baseItemId":"AI_CrusherSkin","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1583,7 +1583,7 @@
 <summary>Biomass</summary>
 
 ```json
-{"itemId":"2bdecd23-b328-483b-b83e-54ec0a4e7d7c","baseItemId":"Biomass","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"2bdecd23-b328-483b-b83e-54ec0a4e7d7c","baseItemId":"Biomass","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1591,7 +1591,7 @@
 <summary>AlphaWardenHeart</summary>
 
 ```json
-{"itemId":"6ac179ab-c00e-4e5d-b8a9-07f8df5e097e","baseItemId":"AlphaWardenHeart","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"6ac179ab-c00e-4e5d-b8a9-07f8df5e097e","baseItemId":"AlphaWardenHeart","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1599,7 +1599,7 @@
 <summary>Adhesive</summary>
 
 ```json
-{"itemId":"40bca056-e3c3-40a0-b29e-7cff57120437","baseItemId":"Adhesive","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"40bca056-e3c3-40a0-b29e-7cff57120437","baseItemId":"Adhesive","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1607,7 +1607,7 @@
 <summary>KorolevScrip</summary>
 
 ```json
-{"itemId":"192817f1-5783-4145-a810-e06f7eb0e359","baseItemId":"KorolevScrip","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"192817f1-5783-4145-a810-e06f7eb0e359","baseItemId":"KorolevScrip","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1615,7 +1615,7 @@
 <summary>OsirisScrip</summary>
 
 ```json
-{"itemId":"483e35f5-5add-43ca-83de-7c292c516000","baseItemId":"OsirisScrip","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"483e35f5-5add-43ca-83de-7c292c516000","baseItemId":"OsirisScrip","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1623,7 +1623,7 @@
 <summary>ICAScrip</summary>
 
 ```json
-{"itemId":"fe0dbeb7-e718-43ca-ba2f-67920f40f962","baseItemId":"ICAScrip","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"fe0dbeb7-e718-43ca-ba2f-67920f40f962","baseItemId":"ICAScrip","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1631,7 +1631,7 @@
 <summary>Letium</summary>
 
 ```json
-{"itemId":"360fe566-b762-4d70-a0af-b9c0596e15d6","baseItemId":"Letium","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"360fe566-b762-4d70-a0af-b9c0596e15d6","baseItemId":"Letium","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1639,7 +1639,7 @@
 <summary>OilTank</summary>
 
 ```json
-{"itemId":"0365ba7b-a7dc-4dba-adac-ccd253c4aa53","baseItemId":"OilTank","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"0365ba7b-a7dc-4dba-adac-ccd253c4aa53","baseItemId":"OilTank","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1647,7 +1647,7 @@
 <summary>AI_StriderMeat_03</summary>
 
 ```json
-{"itemId":"d1700ba8-e708-444a-998d-4437e75a7c75","baseItemId":"AI_StriderMeat_03","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"d1700ba8-e708-444a-998d-4437e75a7c75","baseItemId":"AI_StriderMeat_03","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1655,7 +1655,7 @@
 <summary>AI_RattlerEyes_02</summary>
 
 ```json
-{"itemId":"19ef4420-012c-4ae3-8624-28c98ce140af","baseItemId":"AI_RattlerEyes_02","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"19ef4420-012c-4ae3-8624-28c98ce140af","baseItemId":"AI_RattlerEyes_02","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1663,7 +1663,7 @@
 <summary>AI_WeremoleMeat_02</summary>
 
 ```json
-{"itemId":"ce4f5284-bc7c-43ab-808c-28ecbfdd3feb","baseItemId":"AI_WeremoleMeat_02","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"ce4f5284-bc7c-43ab-808c-28ecbfdd3feb","baseItemId":"AI_WeremoleMeat_02","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1671,7 +1671,7 @@
 <summary>AI_StriderHead_03</summary>
 
 ```json
-{"itemId":"2937f7e4-5e1b-421f-869c-f82ebbe8c6b4","baseItemId":"AI_StriderHead_03","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"2937f7e4-5e1b-421f-869c-f82ebbe8c6b4","baseItemId":"AI_StriderHead_03","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1679,7 +1679,7 @@
 <summary>AI_RattlerHead_02</summary>
 
 ```json
-{"itemId":"cae94e0c-a1f3-4904-8a9d-cd09ff5f7b04","baseItemId":"AI_RattlerHead_02","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"cae94e0c-a1f3-4904-8a9d-cd09ff5f7b04","baseItemId":"AI_RattlerHead_02","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1687,7 +1687,7 @@
 <summary>AI_WeremoleHead_02</summary>
 
 ```json
-{"itemId":"85823e0c-a912-447b-833c-ddc08163d964","baseItemId":"AI_WeremoleHead_02","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"85823e0c-a912-447b-833c-ddc08163d964","baseItemId":"AI_WeremoleHead_02","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1695,7 +1695,7 @@
 <summary>ForgeIron</summary>
 
 ```json
-{"itemId":"6f085ac3-fc01-4e08-96f1-9e9a91933712","baseItemId":"ForgeIron","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"6f085ac3-fc01-4e08-96f1-9e9a91933712","baseItemId":"ForgeIron","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1703,7 +1703,7 @@
 <summary>PureForgeIron</summary>
 
 ```json
-{"itemId":"120d1a16-b578-44ec-839f-63b17a8c2906","baseItemId":"PureForgeIron","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"120d1a16-b578-44ec-839f-63b17a8c2906","baseItemId":"PureForgeIron","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1711,7 +1711,7 @@
 <summary>ForgeIronIngot</summary>
 
 ```json
-{"itemId":"3452803c-40c2-46cd-b721-f4b9e8bfcdb0","baseItemId":"ForgeIronIngot","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"3452803c-40c2-46cd-b721-f4b9e8bfcdb0","baseItemId":"ForgeIronIngot","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1719,7 +1719,7 @@
 <summary>ChargedForgeIronIngot</summary>
 
 ```json
-{"itemId":"1f4dad9d-9639-430b-a2b2-fa473889f2c3","baseItemId":"ChargedForgeIronIngot","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"1f4dad9d-9639-430b-a2b2-fa473889f2c3","baseItemId":"ChargedForgeIronIngot","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1727,7 +1727,7 @@
 <summary>SuperChargedForgeIronIngot</summary>
 
 ```json
-{"itemId":"c2850300-fb1a-4256-b83d-1059c9e17aed","baseItemId":"SuperChargedForgeIronIngot","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"c2850300-fb1a-4256-b83d-1059c9e17aed","baseItemId":"SuperChargedForgeIronIngot","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1735,7 +1735,7 @@
 <summary>GlowingCrystalCoreShard</summary>
 
 ```json
-{"itemId":"6e1ff943-33e9-4f13-891f-47e0fbae75d5","baseItemId":"GlowingCrystalCoreShard","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"6e1ff943-33e9-4f13-891f-47e0fbae75d5","baseItemId":"GlowingCrystalCoreShard","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1743,7 +1743,7 @@
 <summary>AF_Slag</summary>
 
 ```json
-{"itemId":"bd86eb58-fb0c-409a-9ab9-2934cba15646","baseItemId":"AF_Slag","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"bd86eb58-fb0c-409a-9ab9-2934cba15646","baseItemId":"AF_Slag","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1751,7 +1751,7 @@
 <summary>AF_Token</summary>
 
 ```json
-{"itemId":"d1781184-8dbe-4ab3-8892-cdc7b868e02d","baseItemId":"AF_Token","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"d1781184-8dbe-4ab3-8892-cdc7b868e02d","baseItemId":"AF_Token","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1759,7 +1759,7 @@
 <summary>TentaclePlant</summary>
 
 ```json
-{"itemId":"37623691-1404-41d9-b926-337da11eda9e","baseItemId":"TentaclePlant","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"37623691-1404-41d9-b926-337da11eda9e","baseItemId":"TentaclePlant","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
 
@@ -1767,6 +1767,6 @@
 <summary>Alien_Scrap</summary>
 
 ```json
-{"itemId":"694321d0-d90b-456e-87a8-4e56631e8994","baseItemId":"Alien_Scrap","primaryVanityId":0,"secondaryVanityId":0,"amount":10000,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
+{"itemId":"694321d0-d90b-456e-87a8-4e56631e8994","baseItemId":"Alien_Scrap","primaryVanityId":0,"secondaryVanityId":0,"amount":10,"durability":-1,"modData":{"m":[]},"rolledPerks":[],"insurance":"","insuranceOwnerPlayfabId":"","insuredAttachmentId":"","origin":{"t":"","p":"","g":""}}
 ```
 </details>
